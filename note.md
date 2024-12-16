@@ -35,3 +35,6 @@
 
 # Xung đột 
 
+# gitignore
+
+# fork 
