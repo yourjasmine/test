@@ -1,10 +1,11 @@
 # Câu lệnh
 - git init : biến dự án thành một git - repository
-- git add . 
+
+- git add .  : lưu file trạng thái tạm thời(ngay tại thời điểm)
 - git add <tên file>
 
--git status
+-git status: xem trạng thái lưu file của repo
 
 -git commit -m 'ghi chú': quan trọng nhất.
 
-- git log
+- git log --oneline: xem danh sách commit của repo
