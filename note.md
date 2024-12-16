@@ -20,3 +20,11 @@
 
 # lấy repo từ git về máy
 - git clone <đường dẫn>
+
+# tạo nhánh từ máy local và up lên github
+
+# lấy nhánh từ github về máy local
+- git fectch origin
+- git checkout -b {tên nhánh} origin/{tên nhánh}
+
+# 
