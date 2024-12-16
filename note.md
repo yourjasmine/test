@@ -13,3 +13,7 @@
 # Tạo nhánh
 
 - git checkout -b {tên nhánh} : tạo nhánh
+- git branch -d {tên nhánh}: xóa nhánh
+
+# up lên github
+- git push <đường dẫn> <tên nhánh>
