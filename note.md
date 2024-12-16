@@ -20,3 +20,9 @@
 
 # lấy repo từ git về máy
 - git clone <đường dẫn>
+
+# push code
+- git push
+
+# Tạo nhánh khi đã clone code từ github về máy
+- git checkout -b {tên nhánh}
