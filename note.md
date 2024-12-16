@@ -17,3 +17,6 @@
 
 # up lên github
 - git push <đường dẫn> <tên nhánh>
+
+# lấy repo từ git về máy
+- git clone <đường dẫn>
