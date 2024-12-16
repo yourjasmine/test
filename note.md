@@ -27,4 +27,10 @@
 - git fectch origin
 - git checkout -b {tên nhánh} origin/{tên nhánh}
 
-# 
+# Kết hợp các nhánh vào master trên git
+- vào chức năng pul request trên github
+
+# Lấy các chỉnh sửa, version mới trên github về máy
+- git pull
+
+# Xung đột 
