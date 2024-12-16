@@ -9,3 +9,7 @@
 -git commit -m 'ghi chú': quan trọng nhất.
 
 - git log --oneline: xem danh sách commit của repo
+
+# Tạo nhánh
+
+- git checkout -b {tên nhánh} : tạo nhánh
